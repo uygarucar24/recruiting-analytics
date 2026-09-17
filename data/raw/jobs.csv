@@ -1,0 +1,421 @@
+job_id,job_title,department,location,country,seniority,employment_type,work_model,opening_date,target_hires,job_status,close_date,recruiter_id,salary_min_eur,salary_max_eur,difficulty_score
+JOB0001,Accountant,Finance,Frankfurt,Germany,Senior,Permanent,On-site,2024-08-05,2,Filled,2024-10-24,REC008,83000,92000,3.2
+JOB0002,Account Executive,Sales,Cologne,Germany,Junior,Permanent,On-site,2025-04-16,2,Filled,2025-06-20,REC012,47000,59000,1.5
+JOB0003,Content Specialist,Marketing,Berlin,Germany,Professional,Permanent,On-site,2025-08-17,1,Filled,2025-09-15,REC008,62000,74000,2.7
+JOB0004,Supply Chain Analyst,Operations,Frankfurt,Germany,Junior,Permanent,Hybrid,2024-12-14,1,Closed without hire,2025-01-29,REC006,48000,66000,1.4
+JOB0005,Software Developer,IT,Frankfurt,Germany,Lead,Permanent,On-site,2024-12-12,4,Partially filled,2025-04-14,REC001,106000,121000,5.0
+JOB0006,Cloud Engineer,IT,Berlin,Germany,Senior,Permanent,Remote,2024-02-27,2,Partially filled,2024-05-22,REC001,86000,101000,5.0
+JOB0007,Data Analyst,IT,Hamburg,Germany,Senior,Permanent,On-site,2025-03-26,1,Filled,2025-08-25,REC008,90000,99000,5.0
+JOB0008,Financial Analyst,Finance,Frankfurt,Germany,Junior,Permanent,Remote,2025-07-22,1,Filled,2025-09-23,REC004,52000,61000,2.3
+JOB0009,Team Lead Operations,Operations,Frankfurt,Germany,Junior,Permanent,Hybrid,2025-10-17,2,Closed without hire,2025-12-10,REC008,48000,57000,2.4
+JOB0010,Recruiter,HR,Hamburg,Germany,Senior,Permanent,Remote,2024-03-26,1,Filled,2024-05-30,REC008,78000,90000,3.3
+JOB0011,IT Support Specialist,IT,Berlin,Germany,Professional,Permanent,Hybrid,2025-02-14,2,Filled,2025-05-10,REC001,68000,77000,4.3
+JOB0012,Payroll Specialist,HR,Frankfurt,Germany,Junior,Permanent,Hybrid,2025-08-12,1,Filled,2025-09-09,REC009,45000,63000,1.7
+JOB0013,Financial Analyst,Finance,Hamburg,Germany,Senior,Permanent,Hybrid,2025-04-25,2,Filled,2025-07-27,REC012,80000,95000,4.4
+JOB0014,Quality Engineer,Engineering,Berlin,Germany,Senior,Permanent,Hybrid,2025-09-04,3,Filled,2025-11-09,REC008,81000,99000,3.9
+JOB0015,Data Analyst,IT,Munich,Germany,Professional,Permanent,On-site,2024-09-22,1,Cancelled,2024-12-23,REC008,75000,84000,4.5
+JOB0016,Process Engineer,Engineering,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-08-26,2,Filled,2024-11-07,REC012,77000,89000,4.3
+JOB0017,Mechanical Engineer,Engineering,Frankfurt,Germany,Lead,Permanent,Hybrid,2025-03-02,2,Partially filled,2025-05-23,REC006,103000,115000,5.0
+JOB0018,Account Executive,Sales,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-06-06,2,Filled,2024-07-21,REC003,65000,80000,2.5
+JOB0019,Operations Specialist,Operations,Berlin,Germany,Professional,Permanent,Hybrid,2024-05-11,4,Partially filled,2024-08-05,REC006,60000,78000,2.7
+JOB0020,Electrical Engineer,Engineering,Munich,Germany,Senior,Permanent,Remote,2024-08-06,2,Cancelled,2024-11-12,REC008,88000,106000,4.8
+JOB0021,Data Engineer,IT,Hamburg,Germany,Junior,Permanent,On-site,2024-06-04,3,Filled,2024-09-19,REC001,59000,77000,3.5
+JOB0022,Data Analyst,IT,Hamburg,Germany,Senior,Permanent,Hybrid,2024-11-10,1,Filled,2025-02-24,REC008,87000,99000,5.0
+JOB0023,Quality Engineer,Engineering,Hamburg,Germany,Junior,Permanent,Hybrid,2024-06-18,1,Filled,2024-07-31,REC006,53000,65000,3.0
+JOB0024,Sales Manager,Sales,Cologne,Germany,Senior,Permanent,On-site,2025-07-26,4,Filled,2025-11-01,REC003,77000,95000,3.1
+JOB0025,Data Analyst,IT,Berlin,Germany,Professional,Permanent,On-site,2025-07-24,2,Filled,2025-12-05,REC001,67000,76000,4.6
+JOB0026,Project Coordinator,Operations,Cologne,Germany,Junior,Permanent,On-site,2025-07-07,4,Partially filled,2025-10-26,REC011,46000,55000,2.1
+JOB0027,Controller,Finance,Berlin,Germany,Senior,Permanent,Hybrid,2024-12-26,3,Filled,2025-04-30,REC012,81000,90000,3.6
+JOB0028,Process Engineer,Engineering,Cologne,Germany,Junior,Permanent,Hybrid,2025-08-18,1,Closed without hire,2025-11-11,REC012,49000,64000,3.1
+JOB0029,Mechanical Engineer,Engineering,Munich,Germany,Professional,Permanent,On-site,2025-06-12,1,Closed without hire,2025-09-02,REC012,71000,86000,4.6
+JOB0030,Payroll Specialist,HR,Frankfurt,Germany,Professional,Permanent,On-site,2024-02-21,1,Filled,2024-05-23,REC012,67000,85000,2.1
+JOB0031,Finance Business Partner,Finance,Hamburg,Germany,Senior,Permanent,On-site,2025-07-23,1,Closed without hire,2025-09-29,REC004,82000,100000,3.0
+JOB0032,Process Engineer,Engineering,Cologne,Germany,Professional,Permanent,Hybrid,2024-06-29,1,Cancelled,2024-09-17,REC002,70000,88000,3.7
+JOB0033,Team Lead Operations,Operations,Hamburg,Germany,Professional,Permanent,Hybrid,2025-04-15,3,Filled,2025-07-18,REC012,62000,74000,3.1
+JOB0034,Data Analyst,IT,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-05-17,1,Filled,2025-09-04,REC001,74000,89000,4.2
+JOB0035,Accountant,Finance,Frankfurt,Germany,Senior,Permanent,Hybrid,2024-06-02,1,Filled,2024-09-21,REC006,85000,100000,4.2
+JOB0036,Sales Manager,Sales,Hamburg,Germany,Professional,Permanent,Hybrid,2024-04-26,1,Filled,2024-07-08,REC003,61000,73000,3.2
+JOB0037,Mechanical Engineer,Engineering,Munich,Germany,Senior,Permanent,Hybrid,2025-06-14,2,Filled,2025-07-27,REC012,92000,107000,4.5
+JOB0038,Sales Representative,Sales,Munich,Germany,Senior,Permanent,Hybrid,2025-10-02,3,Filled,2026-01-17,REC003,84000,102000,3.2
+JOB0039,Controller,Finance,Munich,Germany,Junior,Permanent,Hybrid,2024-03-07,1,Filled,2024-06-05,REC004,56000,65000,2.0
+JOB0040,Cloud Engineer,IT,Hamburg,Germany,Junior,Permanent,Hybrid,2024-01-22,1,Filled,2024-03-15,REC007,53000,68000,4.3
+JOB0041,Controller,Finance,Frankfurt,Germany,Professional,Permanent,Remote,2024-08-04,4,Filled,2024-10-22,REC006,66000,84000,3.1
+JOB0042,Operations Specialist,Operations,Frankfurt,Germany,Junior,Permanent,Hybrid,2025-07-30,1,Filled,2025-10-13,REC012,45000,54000,1.9
+JOB0043,Sales Representative,Sales,Berlin,Germany,Professional,Permanent,Hybrid,2024-07-28,2,Filled,2024-09-21,REC003,66000,84000,2.8
+JOB0044,IT Support Specialist,IT,Frankfurt,Germany,Professional,Permanent,Remote,2024-04-11,1,Filled,2024-08-04,REC008,72000,87000,4.1
+JOB0045,Quality Engineer,Engineering,Hamburg,Germany,Senior,Permanent,On-site,2025-06-14,2,Filled,2025-09-04,REC006,83000,101000,4.7
+JOB0046,Cloud Engineer,IT,Cologne,Germany,Professional,Permanent,On-site,2025-06-23,2,Partially filled,2025-09-21,REC006,68000,77000,4.1
+JOB0047,Process Engineer,Engineering,Berlin,Germany,Senior,Permanent,On-site,2024-09-05,1,Closed without hire,2024-12-14,REC008,78000,93000,4.6
+JOB0048,Sales Manager,Sales,Frankfurt,Germany,Junior,Permanent,Remote,2025-05-18,1,Filled,2025-06-22,REC012,47000,56000,1.6
+JOB0049,Team Lead Operations,Operations,Hamburg,Germany,Professional,Permanent,Hybrid,2025-09-18,1,Filled,2025-11-14,REC005,57000,72000,2.7
+JOB0050,Operations Specialist,Operations,Hamburg,Germany,Senior,Permanent,Hybrid,2025-08-26,1,Filled,2025-12-07,REC012,76000,88000,3.3
+JOB0051,Account Executive,Sales,Hamburg,Germany,Professional,Permanent,Hybrid,2024-06-20,1,Filled,2024-08-10,REC006,63000,72000,3.4
+JOB0052,Operations Specialist,Operations,Frankfurt,Germany,Senior,Permanent,Hybrid,2025-01-08,2,Closed without hire,2025-03-19,REC008,81000,93000,2.9
+JOB0053,Sales Manager,Sales,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-07-16,4,Partially filled,2025-09-17,REC012,67000,82000,2.3
+JOB0054,Sales Representative,Sales,Berlin,Germany,Senior,Permanent,Hybrid,2025-09-04,2,Partially filled,2025-11-19,REC006,73000,88000,3.4
+JOB0055,Financial Analyst,Finance,Frankfurt,Germany,Professional,Permanent,Remote,2025-09-18,1,Filled,2025-10-31,REC006,67000,76000,2.5
+JOB0056,Content Specialist,Marketing,Munich,Germany,Junior,Permanent,Hybrid,2025-05-25,1,Closed without hire,2025-07-27,REC010,47000,59000,2.0
+JOB0057,Sales Representative,Sales,Frankfurt,Germany,Lead,Permanent,Hybrid,2024-03-31,2,Filled,2024-07-08,REC006,97000,112000,3.9
+JOB0058,Team Lead Operations,Operations,Munich,Germany,Lead,Permanent,Hybrid,2025-09-30,2,Filled,2026-01-13,REC005,102000,114000,3.3
+JOB0059,Marketing Manager,Marketing,Munich,Germany,Professional,Permanent,On-site,2025-05-16,1,Closed without hire,2025-07-26,REC010,66000,84000,2.9
+JOB0060,HR Business Partner,HR,Berlin,Germany,Professional,Permanent,Hybrid,2024-11-07,3,Filled,2025-01-08,REC008,65000,83000,2.1
+JOB0061,Account Executive,Sales,Munich,Germany,Senior,Permanent,Hybrid,2025-01-30,1,Filled,2025-03-09,REC006,82000,94000,2.7
+JOB0062,Mechanical Engineer,Engineering,Frankfurt,Germany,Senior,Permanent,Hybrid,2024-04-14,3,Filled,2024-08-03,REC006,81000,99000,5.0
+JOB0063,Accountant,Finance,Berlin,Germany,Professional,Permanent,Hybrid,2024-12-10,1,Filled,2025-02-02,REC006,65000,83000,3.5
+JOB0064,Performance Marketing Specialist,Marketing,Cologne,Germany,Professional,Permanent,Hybrid,2025-10-13,2,Open,,REC008,60000,78000,3.1
+JOB0065,Business Development Manager,Sales,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-04-13,1,Filled,2025-05-25,REC006,65000,80000,3.5
+JOB0066,Performance Marketing Specialist,Marketing,Berlin,Germany,Junior,Permanent,Hybrid,2024-01-18,2,Cancelled,2024-03-23,REC010,47000,62000,2.4
+JOB0067,Financial Analyst,Finance,Hamburg,Germany,Senior,Permanent,Hybrid,2025-07-31,1,Filled,2025-11-27,REC006,82000,97000,3.6
+JOB0068,Data Analyst,IT,Frankfurt,Germany,Professional,Permanent,Remote,2024-11-06,4,Filled,2025-02-25,REC006,73000,88000,4.5
+JOB0069,Accountant,Finance,Frankfurt,Germany,Junior,Permanent,Remote,2024-09-10,4,Partially filled,2024-12-31,REC004,55000,67000,2.6
+JOB0070,Supply Chain Analyst,Operations,Berlin,Germany,Senior,Permanent,Remote,2024-03-11,1,Filled,2024-05-18,REC006,81000,93000,3.4
+JOB0071,Sales Manager,Sales,Berlin,Germany,Senior,Permanent,Hybrid,2024-10-16,1,Filled,2024-12-01,REC006,77000,92000,3.2
+JOB0072,Payroll Specialist,HR,Frankfurt,Germany,Junior,Permanent,On-site,2025-02-14,2,Filled,2025-04-28,REC008,50000,59000,1.8
+JOB0073,Software Developer,IT,Frankfurt,Germany,Professional,Permanent,On-site,2025-08-30,1,Filled,2025-10-24,REC001,74000,92000,4.7
+JOB0074,Software Developer,IT,Frankfurt,Germany,Professional,Permanent,On-site,2025-10-11,1,Filled,2025-12-11,REC008,73000,91000,4.5
+JOB0075,Software Developer,IT,Berlin,Germany,Professional,Permanent,Hybrid,2024-09-19,3,Filled,2025-01-07,REC001,67000,85000,3.9
+JOB0076,CRM Manager,Marketing,Frankfurt,Germany,Professional,Permanent,Remote,2025-02-01,2,Filled,2025-04-16,REC006,63000,75000,2.3
+JOB0077,Project Coordinator,Operations,Hamburg,Germany,Senior,Permanent,Hybrid,2024-11-16,1,Filled,2024-12-15,REC011,77000,92000,2.9
+JOB0078,Data Engineer,IT,Cologne,Germany,Professional,Permanent,Hybrid,2025-01-29,2,Filled,2025-05-16,REC012,70000,85000,3.8
+JOB0079,Payroll Specialist,HR,Munich,Germany,Professional,Permanent,On-site,2025-01-20,2,Filled,2025-02-21,REC009,69000,87000,2.6
+JOB0080,Process Engineer,Engineering,Hamburg,Germany,Professional,Permanent,On-site,2024-11-23,2,Filled,2025-02-28,REC012,62000,74000,3.8
+JOB0081,Learning Specialist,HR,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-08-05,1,Closed without hire,2024-10-04,REC006,63000,81000,2.2
+JOB0082,Team Lead Operations,Operations,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-01-01,1,Filled,2025-02-10,REC008,61000,76000,2.2
+JOB0083,Data Engineer,IT,Munich,Germany,Professional,Permanent,On-site,2024-05-30,1,Cancelled,2024-08-29,REC001,73000,82000,4.3
+JOB0084,Recruiter,HR,Munich,Germany,Junior,Permanent,On-site,2025-02-13,1,Filled,2025-04-04,REC006,50000,59000,1.7
+JOB0085,Cloud Engineer,IT,Munich,Germany,Professional,Permanent,Hybrid,2025-09-25,3,Partially filled,2026-02-13,REC007,75000,84000,4.2
+JOB0086,Financial Analyst,Finance,Hamburg,Germany,Lead,Permanent,Hybrid,2024-01-29,3,Partially filled,2024-04-09,REC006,96000,111000,3.8
+JOB0087,Sales Representative,Sales,Berlin,Germany,Senior,Permanent,Hybrid,2025-10-05,1,Closed without hire,2025-12-03,REC003,82000,97000,2.9
+JOB0088,Software Developer,IT,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-11-12,1,Filled,2024-12-23,REC007,74000,86000,4.4
+JOB0089,CRM Manager,Marketing,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-02-11,1,Filled,2024-04-21,REC008,66000,81000,2.6
+JOB0090,Process Engineer,Engineering,Hamburg,Germany,Professional,Permanent,Hybrid,2025-01-09,3,Filled,2025-03-08,REC008,66000,75000,3.7
+JOB0091,Account Executive,Sales,Munich,Germany,Junior,Permanent,Hybrid,2024-12-25,1,Filled,2025-02-11,REC006,52000,64000,1.9
+JOB0092,Team Lead Operations,Operations,Berlin,Germany,Professional,Permanent,On-site,2024-01-06,4,Filled,2024-03-12,REC008,62000,71000,2.4
+JOB0093,Quality Engineer,Engineering,Berlin,Germany,Junior,Permanent,Remote,2024-01-19,2,Cancelled,2024-03-17,REC008,47000,59000,2.8
+JOB0094,Data Analyst,IT,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-02-22,3,Partially filled,2024-06-12,REC001,69000,78000,4.2
+JOB0095,Account Executive,Sales,Munich,Germany,Junior,Permanent,On-site,2025-10-17,1,Closed without hire,2025-12-26,REC012,53000,71000,2.4
+JOB0096,Software Developer,IT,Berlin,Germany,Junior,Permanent,On-site,2025-03-04,3,Closed without hire,2025-05-27,REC001,54000,72000,3.4
+JOB0097,Project Coordinator,Operations,Berlin,Germany,Professional,Permanent,On-site,2024-03-28,1,Filled,2024-04-18,REC008,62000,77000,2.5
+JOB0098,Financial Analyst,Finance,Hamburg,Germany,Professional,Permanent,On-site,2024-12-31,3,Cancelled,2025-03-07,REC012,68000,80000,3.2
+JOB0099,Business Development Manager,Sales,Berlin,Germany,Senior,Permanent,Hybrid,2024-12-07,1,Filled,2025-04-04,REC006,78000,90000,3.1
+JOB0100,Electrical Engineer,Engineering,Cologne,Germany,Junior,Permanent,Hybrid,2025-05-25,1,Filled,2025-07-23,REC008,48000,60000,2.7
+JOB0101,Account Executive,Sales,Frankfurt,Germany,Senior,Permanent,Hybrid,2025-02-11,1,Filled,2025-03-17,REC012,86000,101000,3.1
+JOB0102,IT Support Specialist,IT,Hamburg,Germany,Senior,Permanent,Hybrid,2025-04-06,2,Filled,2025-07-11,REC001,90000,105000,4.1
+JOB0103,Software Developer,IT,Munich,Germany,Senior,Permanent,Remote,2025-08-13,4,Filled,2025-12-01,REC012,91000,109000,5.0
+JOB0104,Recruiter,HR,Frankfurt,Germany,Professional,Permanent,Remote,2025-06-10,1,Filled,2025-07-13,REC012,63000,75000,1.6
+JOB0105,Controller,Finance,Hamburg,Germany,Lead,Permanent,Hybrid,2025-03-07,3,Partially filled,2025-06-05,REC004,97000,106000,4.4
+JOB0106,Data Engineer,IT,Cologne,Germany,Professional,Permanent,Remote,2025-05-16,1,Filled,2025-08-24,REC001,70000,82000,3.9
+JOB0107,Process Engineer,Engineering,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-08-19,1,Closed without hire,2024-11-10,REC008,69000,78000,3.9
+JOB0108,Data Engineer,IT,Berlin,Germany,Professional,Permanent,On-site,2025-03-14,1,Filled,2025-06-08,REC007,70000,82000,4.4
+JOB0109,Cloud Engineer,IT,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-03-14,2,Partially filled,2025-05-31,REC012,74000,92000,4.2
+JOB0110,Supply Chain Analyst,Operations,Munich,Germany,Professional,Permanent,Hybrid,2024-01-03,1,Closed without hire,2024-03-15,REC011,65000,80000,3.1
+JOB0111,Finance Business Partner,Finance,Hamburg,Germany,Senior,Permanent,On-site,2024-09-14,2,Filled,2024-11-30,REC004,78000,93000,3.6
+JOB0112,Marketing Manager,Marketing,Frankfurt,Germany,Senior,Permanent,Hybrid,2024-04-30,1,Filled,2024-07-01,REC008,80000,92000,3.1
+JOB0113,Data Engineer,IT,Frankfurt,Germany,Junior,Permanent,Hybrid,2024-10-01,1,Filled,2024-12-24,REC006,57000,72000,3.4
+JOB0114,Controller,Finance,Berlin,Germany,Professional,Permanent,Hybrid,2024-05-28,1,Filled,2024-08-25,REC006,67000,76000,2.7
+JOB0115,Supply Chain Analyst,Operations,Berlin,Germany,Professional,Permanent,Hybrid,2025-02-04,1,Filled,2025-04-24,REC005,57000,69000,2.3
+JOB0116,Data Analyst,IT,Berlin,Germany,Professional,Permanent,On-site,2024-06-08,1,Cancelled,2024-09-12,REC007,65000,83000,4.3
+JOB0117,Data Engineer,IT,Hamburg,Germany,Senior,Permanent,On-site,2025-08-17,2,Cancelled,2025-11-05,REC008,83000,92000,4.7
+JOB0118,Financial Analyst,Finance,Frankfurt,Germany,Lead,Permanent,Remote,2025-02-06,1,Closed without hire,2025-05-07,REC006,98000,110000,3.8
+JOB0119,Financial Analyst,Finance,Frankfurt,Germany,Professional,Permanent,On-site,2025-02-01,1,Closed without hire,2025-04-05,REC006,69000,81000,3.0
+JOB0120,Sales Representative,Sales,Berlin,Germany,Junior,Permanent,On-site,2024-10-17,2,Cancelled,2024-12-13,REC003,41000,59000,2.2
+JOB0121,Sales Manager,Sales,Cologne,Germany,Professional,Permanent,Hybrid,2024-04-12,1,Closed without hire,2024-07-02,REC008,62000,80000,3.1
+JOB0122,Electrical Engineer,Engineering,Berlin,Germany,Lead,Permanent,Hybrid,2024-03-14,1,Closed without hire,2024-06-19,REC008,105000,114000,4.8
+JOB0123,Supply Chain Analyst,Operations,Hamburg,Germany,Senior,Permanent,Hybrid,2024-07-22,2,Filled,2024-10-14,REC012,76000,88000,3.4
+JOB0124,Software Developer,IT,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-07-23,4,Filled,2025-11-15,REC008,71000,89000,3.8
+JOB0125,Financial Analyst,Finance,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-02-07,2,Cancelled,2025-04-23,REC008,64000,76000,2.8
+JOB0126,Performance Marketing Specialist,Marketing,Frankfurt,Germany,Senior,Permanent,On-site,2025-03-23,3,Filled,2025-06-05,REC008,77000,95000,3.6
+JOB0127,Quality Engineer,Engineering,Munich,Germany,Professional,Permanent,Hybrid,2024-08-19,1,Filled,2024-09-25,REC008,74000,92000,4.1
+JOB0128,Financial Analyst,Finance,Berlin,Germany,Junior,Permanent,Remote,2025-07-13,2,Filled,2025-09-15,REC012,50000,68000,2.9
+JOB0129,HR Business Partner,HR,Berlin,Germany,Professional,Permanent,Hybrid,2025-04-09,3,Filled,2025-07-14,REC009,66000,78000,2.2
+JOB0130,Content Specialist,Marketing,Frankfurt,Germany,Senior,Permanent,Hybrid,2025-05-15,2,Partially filled,2025-08-10,REC012,82000,91000,3.6
+JOB0131,Operations Specialist,Operations,Frankfurt,Germany,Professional,Permanent,Remote,2025-01-12,1,Filled,2025-03-23,REC005,67000,79000,2.2
+JOB0132,Financial Analyst,Finance,Frankfurt,Germany,Professional,Permanent,Remote,2024-11-01,3,Cancelled,2025-01-08,REC006,66000,75000,3.4
+JOB0133,Mechanical Engineer,Engineering,Berlin,Germany,Professional,Permanent,Hybrid,2024-08-19,1,Filled,2024-10-05,REC008,69000,81000,3.9
+JOB0134,Accountant,Finance,Berlin,Germany,Senior,Permanent,On-site,2025-07-31,1,Closed without hire,2025-10-25,REC012,83000,95000,3.7
+JOB0135,Financial Analyst,Finance,Frankfurt,Germany,Senior,Permanent,Hybrid,2024-08-03,2,Filled,2024-09-15,REC004,79000,97000,4.2
+JOB0136,Project Coordinator,Operations,Berlin,Germany,Junior,Permanent,Hybrid,2025-02-23,1,Filled,2025-05-07,REC012,42000,57000,2.1
+JOB0137,IT Support Specialist,IT,Munich,Germany,Professional,Permanent,Hybrid,2024-10-15,4,Filled,2024-12-17,REC006,76000,94000,3.8
+JOB0138,Team Lead Operations,Operations,Frankfurt,Germany,Junior,Permanent,Hybrid,2025-05-29,1,Filled,2025-08-10,REC012,51000,63000,1.7
+JOB0139,Project Coordinator,Operations,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-03-18,1,Filled,2024-05-24,REC008,62000,77000,2.3
+JOB0140,Data Analyst,IT,Berlin,Germany,Professional,Permanent,Remote,2024-07-20,1,Closed without hire,2024-10-01,REC007,70000,82000,3.9
+JOB0141,CRM Manager,Marketing,Frankfurt,Germany,Senior,Permanent,On-site,2024-06-02,2,Filled,2024-08-03,REC008,76000,94000,3.7
+JOB0142,Process Engineer,Engineering,Berlin,Germany,Lead,Permanent,Hybrid,2024-08-21,1,Closed without hire,2024-11-07,REC006,101000,116000,4.7
+JOB0143,Recruiter,HR,Hamburg,Germany,Professional,Permanent,Hybrid,2025-08-04,3,Filled,2025-10-23,REC009,62000,80000,2.4
+JOB0144,Data Engineer,IT,Munich,Germany,Senior,Permanent,On-site,2025-04-27,1,Closed without hire,2025-08-08,REC001,94000,106000,5.0
+JOB0145,Learning Specialist,HR,Cologne,Germany,Lead,Permanent,On-site,2024-10-27,2,Partially filled,2025-01-26,REC009,95000,110000,3.8
+JOB0146,Software Developer,IT,Berlin,Germany,Professional,Permanent,On-site,2024-05-07,1,Filled,2024-07-14,REC007,71000,86000,3.7
+JOB0147,Process Engineer,Engineering,Frankfurt,Germany,Senior,Permanent,Hybrid,2024-06-20,2,Filled,2024-08-07,REC002,88000,103000,4.3
+JOB0148,Mechanical Engineer,Engineering,Berlin,Germany,Junior,Permanent,Hybrid,2024-12-04,2,Closed without hire,2025-02-01,REC008,46000,58000,2.9
+JOB0149,Sales Representative,Sales,Munich,Germany,Professional,Permanent,Hybrid,2025-08-14,1,Closed without hire,2025-10-19,REC012,66000,78000,3.0
+JOB0150,Sales Manager,Sales,Cologne,Germany,Junior,Permanent,Hybrid,2024-12-18,1,Cancelled,2025-02-13,REC012,43000,61000,2.3
+JOB0151,Project Coordinator,Operations,Berlin,Germany,Professional,Permanent,On-site,2025-09-25,1,Closed without hire,2025-11-13,REC011,59000,68000,2.0
+JOB0152,Data Engineer,IT,Cologne,Germany,Junior,Permanent,On-site,2024-05-12,1,Cancelled,2024-08-04,REC007,53000,71000,3.5
+JOB0153,Process Engineer,Engineering,Berlin,Germany,Professional,Permanent,Hybrid,2024-01-26,2,Filled,2024-03-29,REC008,67000,76000,4.6
+JOB0154,Supply Chain Analyst,Operations,Munich,Germany,Professional,Permanent,Remote,2025-10-24,3,Filled,2025-12-14,REC006,69000,87000,2.3
+JOB0155,Controller,Finance,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-12-27,2,Cancelled,2025-03-14,REC006,71000,80000,3.1
+JOB0156,Data Engineer,IT,Berlin,Germany,Professional,Permanent,On-site,2025-03-15,1,Closed without hire,2025-06-13,REC008,67000,85000,4.0
+JOB0157,Controller,Finance,Frankfurt,Germany,Senior,Permanent,Hybrid,2024-10-18,1,Filled,2025-01-02,REC006,85000,103000,3.1
+JOB0158,Business Development Manager,Sales,Berlin,Germany,Junior,Permanent,Remote,2024-08-20,1,Closed without hire,2024-10-16,REC006,43000,52000,1.7
+JOB0159,Cloud Engineer,IT,Frankfurt,Germany,Professional,Permanent,On-site,2025-01-30,1,Closed without hire,2025-04-29,REC001,72000,90000,4.1
+JOB0160,Data Engineer,IT,Berlin,Germany,Professional,Permanent,On-site,2025-08-17,1,Filled,2025-09-22,REC007,70000,79000,4.0
+JOB0161,Team Lead Operations,Operations,Berlin,Germany,Senior,Permanent,Hybrid,2024-12-25,3,Cancelled,2025-03-08,REC012,75000,84000,3.1
+JOB0162,Process Engineer,Engineering,Munich,Germany,Lead,Permanent,Hybrid,2024-12-21,1,Filled,2025-04-07,REC002,106000,124000,4.4
+JOB0163,Financial Analyst,Finance,Munich,Germany,Senior,Permanent,Hybrid,2024-03-16,3,Filled,2024-07-01,REC012,87000,99000,4.1
+JOB0164,Software Developer,IT,Hamburg,Germany,Senior,Permanent,Hybrid,2025-08-08,1,Closed without hire,2025-10-29,REC012,87000,99000,4.6
+JOB0165,Data Analyst,IT,Berlin,Germany,Senior,Permanent,Hybrid,2024-06-17,1,Closed without hire,2024-09-14,REC012,88000,97000,4.2
+JOB0166,Payroll Specialist,HR,Frankfurt,Germany,Junior,Permanent,Remote,2025-08-30,1,Filled,2025-10-06,REC006,49000,61000,1.7
+JOB0167,HR Business Partner,HR,Munich,Germany,Senior,Permanent,Hybrid,2025-04-28,1,Filled,2025-07-19,REC008,82000,94000,3.1
+JOB0168,Sales Manager,Sales,Berlin,Germany,Professional,Permanent,Hybrid,2024-07-13,4,Filled,2024-09-28,REC003,66000,81000,2.4
+JOB0169,Cloud Engineer,IT,Berlin,Germany,Senior,Permanent,Remote,2024-06-27,1,Filled,2024-09-23,REC008,88000,106000,4.7
+JOB0170,Operations Specialist,Operations,Frankfurt,Germany,Senior,Permanent,Hybrid,2024-04-14,1,Filled,2024-05-18,REC012,76000,91000,3.0
+JOB0171,Cloud Engineer,IT,Cologne,Germany,Professional,Permanent,On-site,2024-02-27,2,Filled,2024-06-27,REC007,70000,85000,4.2
+JOB0172,Sales Representative,Sales,Frankfurt,Germany,Senior,Permanent,Remote,2025-04-21,1,Filled,2025-07-21,REC006,83000,92000,4.0
+JOB0173,Team Lead Operations,Operations,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-10-06,1,Filled,2024-10-30,REC005,62000,77000,2.5
+JOB0174,Performance Marketing Specialist,Marketing,Berlin,Germany,Professional,Permanent,Hybrid,2025-01-02,1,Filled,2025-02-02,REC012,60000,78000,3.0
+JOB0175,Operations Specialist,Operations,Berlin,Germany,Professional,Permanent,Hybrid,2025-10-21,2,Open,,REC012,61000,76000,2.4
+JOB0176,Learning Specialist,HR,Frankfurt,Germany,Senior,Permanent,On-site,2024-03-27,1,Closed without hire,2024-05-27,REC012,79000,91000,3.1
+JOB0177,HR Business Partner,HR,Cologne,Germany,Senior,Permanent,On-site,2024-01-25,3,Filled,2024-04-20,REC008,78000,90000,2.8
+JOB0178,Sales Representative,Sales,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-01-16,2,Partially filled,2025-03-21,REC012,64000,82000,2.7
+JOB0179,HR Business Partner,HR,Frankfurt,Germany,Senior,Permanent,Hybrid,2024-11-26,3,Cancelled,2025-01-31,REC009,80000,98000,3.1
+JOB0180,Data Engineer,IT,Munich,Germany,Professional,Permanent,Hybrid,2025-02-01,1,Filled,2025-05-19,REC008,69000,78000,3.4
+JOB0181,Data Analyst,IT,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-08-20,1,Filled,2025-12-05,REC007,74000,83000,4.6
+JOB0182,Finance Business Partner,Finance,Berlin,Germany,Lead,Permanent,Hybrid,2025-03-14,1,Closed without hire,2025-06-05,REC012,96000,114000,4.5
+JOB0183,Cloud Engineer,IT,Hamburg,Germany,Junior,Permanent,Hybrid,2025-08-11,1,Filled,2025-10-09,REC006,51000,60000,3.8
+JOB0184,Financial Analyst,Finance,Munich,Germany,Lead,Permanent,Remote,2024-02-08,2,Partially filled,2024-04-25,REC004,109000,118000,4.6
+JOB0185,Sales Manager,Sales,Frankfurt,Germany,Senior,Permanent,Hybrid,2025-01-18,2,Closed without hire,2025-04-17,REC012,83000,101000,3.8
+JOB0186,Process Engineer,Engineering,Berlin,Germany,Junior,Permanent,Hybrid,2024-07-05,1,Filled,2024-08-09,REC006,51000,69000,3.4
+JOB0187,Business Development Manager,Sales,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-06-27,1,Filled,2024-10-01,REC008,70000,85000,2.7
+JOB0188,Controller,Finance,Munich,Germany,Senior,Permanent,Hybrid,2024-10-27,1,Closed without hire,2025-01-09,REC004,90000,99000,3.3
+JOB0189,Team Lead Operations,Operations,Munich,Germany,Senior,Permanent,Hybrid,2025-01-09,1,Filled,2025-03-20,REC011,79000,97000,3.1
+JOB0190,Data Engineer,IT,Munich,Germany,Professional,Permanent,On-site,2024-10-31,2,Partially filled,2025-01-15,REC012,74000,86000,3.5
+JOB0191,Data Engineer,IT,Frankfurt,Germany,Professional,Permanent,Remote,2025-02-25,1,Filled,2025-06-21,REC008,73000,91000,3.8
+JOB0192,Data Engineer,IT,Munich,Germany,Professional,Permanent,Hybrid,2025-08-31,1,Filled,2025-12-16,REC007,75000,93000,4.5
+JOB0193,Software Developer,IT,Frankfurt,Germany,Junior,Permanent,Hybrid,2024-09-07,3,Filled,2024-11-14,REC007,53000,65000,4.0
+JOB0194,IT Support Specialist,IT,Frankfurt,Germany,Lead,Permanent,Remote,2024-08-27,1,Closed without hire,2024-11-20,REC006,104000,116000,5.0
+JOB0195,Process Engineer,Engineering,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-03-21,2,Filled,2024-07-08,REC002,66000,75000,3.3
+JOB0196,Process Engineer,Engineering,Berlin,Germany,Senior,Permanent,Hybrid,2025-01-19,3,Filled,2025-04-22,REC008,83000,98000,4.0
+JOB0197,IT Support Specialist,IT,Cologne,Germany,Junior,Permanent,On-site,2024-05-23,1,Filled,2024-06-30,REC007,58000,73000,4.1
+JOB0198,Payroll Specialist,HR,Cologne,Germany,Professional,Permanent,Hybrid,2025-01-01,1,Filled,2025-03-28,REC012,54000,72000,1.8
+JOB0199,Sales Representative,Sales,Berlin,Germany,Professional,Permanent,Hybrid,2025-04-20,2,Filled,2025-06-25,REC003,61000,79000,2.5
+JOB0200,Cloud Engineer,IT,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-08-16,1,Filled,2025-10-09,REC007,72000,81000,4.9
+JOB0201,Data Analyst,IT,Berlin,Germany,Lead,Permanent,On-site,2024-12-07,1,Filled,2025-03-11,REC001,104000,119000,5.0
+JOB0202,Learning Specialist,HR,Frankfurt,Germany,Junior,Permanent,Hybrid,2025-07-02,2,Filled,2025-08-08,REC009,49000,64000,1.3
+JOB0203,Electrical Engineer,Engineering,Berlin,Germany,Junior,Permanent,On-site,2024-03-16,2,Partially filled,2024-05-23,REC002,50000,62000,3.0
+JOB0204,Cloud Engineer,IT,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-01-12,2,Filled,2024-04-20,REC006,68000,86000,4.6
+JOB0205,Learning Specialist,HR,Berlin,Germany,Senior,Permanent,Hybrid,2025-03-03,3,Partially filled,2025-05-06,REC012,72000,81000,2.5
+JOB0206,IT Support Specialist,IT,Berlin,Germany,Senior,Permanent,Hybrid,2024-06-22,3,Filled,2024-10-06,REC012,82000,97000,5.0
+JOB0207,Mechanical Engineer,Engineering,Frankfurt,Germany,Lead,Permanent,Hybrid,2025-05-03,1,Filled,2025-08-26,REC012,106000,115000,5.0
+JOB0208,Marketing Manager,Marketing,Frankfurt,Germany,Junior,Permanent,Hybrid,2024-07-23,1,Closed without hire,2024-09-30,REC006,48000,60000,1.7
+JOB0209,Cloud Engineer,IT,Berlin,Germany,Senior,Permanent,Hybrid,2024-01-24,1,Closed without hire,2024-04-17,REC007,85000,100000,4.8
+JOB0210,Process Engineer,Engineering,Munich,Germany,Junior,Permanent,Hybrid,2024-01-18,1,Closed without hire,2024-03-31,REC006,55000,64000,3.6
+JOB0211,Software Developer,IT,Munich,Germany,Professional,Permanent,Hybrid,2025-03-08,1,Filled,2025-06-20,REC007,76000,88000,4.1
+JOB0212,CRM Manager,Marketing,Munich,Germany,Senior,Permanent,On-site,2024-08-29,1,Filled,2024-10-20,REC006,82000,94000,3.5
+JOB0213,Team Lead Operations,Operations,Frankfurt,Germany,Senior,Permanent,Hybrid,2025-10-12,4,Partially filled,2025-12-15,REC006,85000,100000,3.3
+JOB0214,Operations Specialist,Operations,Frankfurt,Germany,Junior,Permanent,Hybrid,2024-07-16,1,Filled,2024-09-13,REC006,51000,60000,1.4
+JOB0215,IT Support Specialist,IT,Frankfurt,Germany,Junior,Permanent,On-site,2024-06-28,2,Closed without hire,2024-09-04,REC007,57000,69000,3.8
+JOB0216,Learning Specialist,HR,Munich,Germany,Senior,Permanent,Hybrid,2024-12-03,3,Closed without hire,2025-02-22,REC012,78000,90000,3.3
+JOB0217,Electrical Engineer,Engineering,Berlin,Germany,Professional,Permanent,On-site,2024-05-29,2,Partially filled,2024-09-28,REC012,65000,80000,4.2
+JOB0218,Account Executive,Sales,Berlin,Germany,Senior,Permanent,On-site,2024-10-15,1,Closed without hire,2025-01-08,REC012,82000,100000,3.4
+JOB0219,Cloud Engineer,IT,Frankfurt,Germany,Junior,Permanent,On-site,2025-09-06,4,Filled,2025-12-13,REC001,57000,69000,4.0
+JOB0220,IT Support Specialist,IT,Berlin,Germany,Senior,Permanent,On-site,2024-06-11,3,Partially filled,2024-10-29,REC012,79000,94000,4.4
+JOB0221,Supply Chain Analyst,Operations,Hamburg,Germany,Senior,Permanent,Hybrid,2024-07-05,1,Filled,2024-09-19,REC011,79000,97000,3.2
+JOB0222,Software Developer,IT,Hamburg,Germany,Junior,Permanent,Hybrid,2024-09-15,3,Partially filled,2024-12-28,REC012,52000,70000,3.9
+JOB0223,Business Development Manager,Sales,Berlin,Germany,Senior,Permanent,Hybrid,2025-02-24,3,Filled,2025-06-15,REC008,82000,94000,3.8
+JOB0224,Sales Representative,Sales,Cologne,Germany,Junior,Permanent,Hybrid,2025-10-22,1,Filled,2025-12-03,REC008,47000,65000,1.9
+JOB0225,Electrical Engineer,Engineering,Munich,Germany,Senior,Permanent,Hybrid,2024-12-11,2,Closed without hire,2025-03-03,REC008,92000,110000,4.1
+JOB0226,Data Analyst,IT,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-09-23,4,Partially filled,2026-01-10,REC006,71000,86000,4.4
+JOB0227,Electrical Engineer,Engineering,Hamburg,Germany,Senior,Permanent,Hybrid,2025-08-05,1,Closed without hire,2025-10-22,REC006,84000,99000,4.7
+JOB0228,Operations Specialist,Operations,Munich,Germany,Senior,Permanent,Hybrid,2025-02-20,2,Filled,2025-05-14,REC005,79000,88000,3.0
+JOB0229,Process Engineer,Engineering,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-06-25,1,Filled,2025-08-06,REC006,72000,81000,3.7
+JOB0230,Business Development Manager,Sales,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-10-27,1,Open,,REC006,65000,77000,2.3
+JOB0231,Team Lead Operations,Operations,Berlin,Germany,Lead,Permanent,Hybrid,2025-08-28,3,Filled,2025-12-09,REC005,90000,102000,3.4
+JOB0232,Data Engineer,IT,Hamburg,Germany,Senior,Permanent,On-site,2024-06-06,4,Partially filled,2024-10-16,REC006,86000,104000,5.0
+JOB0233,Process Engineer,Engineering,Frankfurt,Germany,Senior,Permanent,Hybrid,2024-11-29,1,Filled,2025-02-20,REC008,86000,98000,4.1
+JOB0234,Performance Marketing Specialist,Marketing,Hamburg,Germany,Senior,Permanent,Remote,2025-04-08,1,Filled,2025-07-10,REC006,82000,91000,3.4
+JOB0235,Sales Manager,Sales,Berlin,Germany,Lead,Permanent,Hybrid,2025-10-15,1,Filled,2025-12-08,REC008,99000,114000,4.1
+JOB0236,Software Developer,IT,Munich,Germany,Lead,Permanent,Remote,2025-04-11,1,Filled,2025-06-17,REC007,110000,119000,5.0
+JOB0237,Sales Manager,Sales,Hamburg,Germany,Junior,Permanent,Hybrid,2024-01-22,3,Partially filled,2024-04-07,REC008,46000,61000,1.9
+JOB0238,Process Engineer,Engineering,Hamburg,Germany,Senior,Permanent,On-site,2025-05-08,2,Filled,2025-08-27,REC008,87000,102000,4.0
+JOB0239,Finance Business Partner,Finance,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-08-04,2,Closed without hire,2025-10-09,REC006,68000,77000,2.8
+JOB0240,Financial Analyst,Finance,Frankfurt,Germany,Junior,Permanent,Remote,2025-01-06,1,Closed without hire,2025-03-11,REC008,49000,67000,2.4
+JOB0241,Electrical Engineer,Engineering,Berlin,Germany,Professional,Permanent,Hybrid,2024-02-08,2,Cancelled,2024-05-02,REC012,65000,80000,3.9
+JOB0242,Business Development Manager,Sales,Hamburg,Germany,Professional,Permanent,Remote,2024-06-29,3,Filled,2024-10-01,REC006,61000,79000,3.2
+JOB0243,Team Lead Operations,Operations,Berlin,Germany,Junior,Permanent,Hybrid,2024-01-08,3,Filled,2024-02-26,REC005,43000,61000,1.7
+JOB0244,Process Engineer,Engineering,Munich,Germany,Junior,Permanent,On-site,2024-10-21,1,Closed without hire,2025-01-06,REC002,55000,64000,3.7
+JOB0245,HR Business Partner,HR,Frankfurt,Germany,Professional,Permanent,On-site,2025-01-29,1,Closed without hire,2025-04-14,REC006,67000,76000,2.2
+JOB0246,Cloud Engineer,IT,Hamburg,Germany,Junior,Permanent,Hybrid,2024-05-27,1,Cancelled,2024-08-25,REC007,48000,63000,3.6
+JOB0247,Operations Specialist,Operations,Berlin,Germany,Professional,Permanent,On-site,2025-04-05,1,Cancelled,2025-05-26,REC006,63000,78000,1.7
+JOB0248,Sales Representative,Sales,Frankfurt,Germany,Senior,Permanent,Hybrid,2025-04-23,1,Filled,2025-06-13,REC008,81000,93000,3.2
+JOB0249,Content Specialist,Marketing,Hamburg,Germany,Junior,Permanent,On-site,2025-03-04,1,Filled,2025-06-07,REC010,47000,62000,2.1
+JOB0250,Process Engineer,Engineering,Munich,Germany,Senior,Permanent,On-site,2024-10-25,4,Partially filled,2025-02-20,REC002,83000,92000,4.4
+JOB0251,Process Engineer,Engineering,Berlin,Germany,Junior,Permanent,Remote,2024-12-07,1,Filled,2025-02-01,REC006,52000,67000,2.8
+JOB0252,Data Analyst,IT,Hamburg,Germany,Junior,Permanent,Hybrid,2025-01-03,3,Filled,2025-05-06,REC012,56000,74000,3.8
+JOB0253,Controller,Finance,Berlin,Germany,Professional,Permanent,Hybrid,2025-03-28,2,Filled,2025-07-09,REC008,65000,74000,3.1
+JOB0254,Business Development Manager,Sales,Hamburg,Germany,Senior,Permanent,Remote,2025-09-26,1,Filled,2025-11-24,REC003,80000,89000,3.5
+JOB0255,Financial Analyst,Finance,Cologne,Germany,Senior,Permanent,Hybrid,2025-03-07,2,Filled,2025-04-17,REC012,81000,96000,3.5
+JOB0256,Financial Analyst,Finance,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-07-27,1,Filled,2024-10-28,REC006,68000,83000,3.6
+JOB0257,IT Support Specialist,IT,Munich,Germany,Lead,Permanent,Hybrid,2024-08-17,3,Cancelled,2024-11-17,REC007,108000,126000,5.0
+JOB0258,Learning Specialist,HR,Hamburg,Germany,Senior,Permanent,Hybrid,2025-03-18,2,Partially filled,2025-06-12,REC009,81000,99000,3.6
+JOB0259,Financial Analyst,Finance,Berlin,Germany,Professional,Permanent,Hybrid,2025-05-17,1,Filled,2025-08-05,REC006,65000,74000,3.0
+JOB0260,Controller,Finance,Hamburg,Germany,Professional,Permanent,On-site,2024-09-09,1,Filled,2024-11-30,REC004,63000,72000,2.8
+JOB0261,Process Engineer,Engineering,Munich,Germany,Senior,Permanent,On-site,2024-08-13,2,Filled,2024-11-21,REC008,90000,105000,3.8
+JOB0262,Data Analyst,IT,Frankfurt,Germany,Senior,Permanent,Hybrid,2025-10-18,1,Open,,REC008,86000,104000,5.0
+JOB0263,Electrical Engineer,Engineering,Berlin,Germany,Professional,Permanent,On-site,2024-01-28,2,Filled,2024-03-29,REC008,70000,82000,4.0
+JOB0264,Learning Specialist,HR,Berlin,Germany,Professional,Permanent,On-site,2025-03-13,1,Closed without hire,2025-05-01,REC009,60000,72000,2.0
+JOB0265,Finance Business Partner,Finance,Munich,Germany,Professional,Permanent,Hybrid,2024-11-06,1,Filled,2025-01-13,REC004,72000,81000,2.8
+JOB0266,CRM Manager,Marketing,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-05-03,2,Filled,2025-08-18,REC006,66000,75000,3.3
+JOB0267,Business Development Manager,Sales,Frankfurt,Germany,Senior,Permanent,Hybrid,2024-09-12,2,Filled,2024-12-06,REC008,80000,89000,4.1
+JOB0268,Business Development Manager,Sales,Frankfurt,Germany,Professional,Permanent,On-site,2025-05-23,1,Filled,2025-07-28,REC008,69000,84000,2.2
+JOB0269,Sales Manager,Sales,Berlin,Germany,Professional,Permanent,On-site,2025-08-21,1,Filled,2025-10-17,REC003,64000,82000,2.6
+JOB0270,Data Analyst,IT,Berlin,Germany,Junior,Permanent,Hybrid,2024-10-25,1,Filled,2025-01-15,REC012,54000,66000,3.5
+JOB0271,Data Engineer,IT,Munich,Germany,Professional,Permanent,Hybrid,2025-07-08,2,Cancelled,2025-10-02,REC001,76000,91000,4.3
+JOB0272,Finance Business Partner,Finance,Berlin,Germany,Junior,Permanent,Hybrid,2025-07-27,2,Filled,2025-10-11,REC008,48000,66000,1.9
+JOB0273,Data Analyst,IT,Cologne,Germany,Professional,Permanent,Hybrid,2025-07-17,3,Filled,2025-10-22,REC006,70000,85000,4.5
+JOB0274,Cloud Engineer,IT,Berlin,Germany,Junior,Permanent,Hybrid,2024-07-28,2,Closed without hire,2024-10-07,REC001,56000,71000,4.0
+JOB0275,Process Engineer,Engineering,Frankfurt,Germany,Senior,Permanent,Hybrid,2025-02-16,1,Filled,2025-04-15,REC006,84000,93000,4.5
+JOB0276,Marketing Manager,Marketing,Hamburg,Germany,Junior,Permanent,Hybrid,2024-09-10,2,Partially filled,2024-11-17,REC012,43000,55000,2.3
+JOB0277,Data Engineer,IT,Frankfurt,Germany,Senior,Permanent,Hybrid,2025-03-18,2,Partially filled,2025-07-20,REC006,91000,100000,4.5
+JOB0278,Software Developer,IT,Berlin,Germany,Junior,Permanent,Hybrid,2025-09-26,1,Filled,2025-12-24,REC006,54000,63000,3.7
+JOB0279,Team Lead Operations,Operations,Hamburg,Germany,Professional,Permanent,Hybrid,2025-09-12,1,Filled,2025-12-02,REC006,60000,75000,3.2
+JOB0280,Learning Specialist,HR,Frankfurt,Germany,Senior,Permanent,Remote,2025-01-12,1,Filled,2025-02-27,REC008,77000,89000,4.0
+JOB0281,CRM Manager,Marketing,Cologne,Germany,Professional,Permanent,Hybrid,2025-09-26,2,Partially filled,2026-01-11,REC010,63000,72000,2.5
+JOB0282,Financial Analyst,Finance,Hamburg,Germany,Professional,Permanent,Hybrid,2024-09-18,4,Filled,2024-12-12,REC008,65000,83000,3.2
+JOB0283,HR Business Partner,HR,Hamburg,Germany,Professional,Permanent,Hybrid,2024-01-30,4,Filled,2024-04-01,REC012,60000,69000,2.5
+JOB0284,Accountant,Finance,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-10-02,1,Filled,2025-11-21,REC012,68000,80000,3.3
+JOB0285,Operations Specialist,Operations,Berlin,Germany,Professional,Permanent,Hybrid,2024-09-23,4,Filled,2024-11-08,REC006,57000,72000,2.2
+JOB0286,IT Support Specialist,IT,Frankfurt,Germany,Professional,Permanent,On-site,2024-03-25,1,Closed without hire,2024-06-25,REC007,75000,93000,4.1
+JOB0287,Electrical Engineer,Engineering,Frankfurt,Germany,Senior,Permanent,Hybrid,2025-08-08,1,Filled,2025-10-28,REC008,85000,103000,4.4
+JOB0288,Financial Analyst,Finance,Berlin,Germany,Professional,Permanent,On-site,2024-05-02,2,Filled,2024-07-10,REC006,59000,68000,3.1
+JOB0289,CRM Manager,Marketing,Berlin,Germany,Professional,Permanent,Hybrid,2025-07-30,1,Closed without hire,2025-10-13,REC010,62000,74000,2.7
+JOB0290,Electrical Engineer,Engineering,Munich,Germany,Professional,Permanent,Remote,2024-11-25,1,Closed without hire,2025-02-03,REC008,73000,82000,3.7
+JOB0291,Finance Business Partner,Finance,Cologne,Germany,Junior,Permanent,On-site,2025-06-17,2,Closed without hire,2025-08-21,REC004,52000,64000,2.5
+JOB0292,Business Development Manager,Sales,Frankfurt,Germany,Professional,Permanent,Remote,2024-10-12,1,Filled,2024-11-28,REC008,68000,83000,3.0
+JOB0293,IT Support Specialist,IT,Munich,Germany,Professional,Permanent,Hybrid,2025-06-26,3,Filled,2025-10-23,REC007,74000,86000,4.3
+JOB0294,Mechanical Engineer,Engineering,Frankfurt,Germany,Professional,Permanent,On-site,2024-09-15,1,Cancelled,2024-12-11,REC002,70000,82000,3.5
+JOB0295,Process Engineer,Engineering,Berlin,Germany,Professional,Permanent,On-site,2025-05-31,3,Partially filled,2025-08-10,REC012,68000,80000,3.1
+JOB0296,Mechanical Engineer,Engineering,Frankfurt,Germany,Professional,Permanent,Remote,2025-09-17,1,Filled,2025-10-27,REC012,75000,90000,4.3
+JOB0297,Accountant,Finance,Frankfurt,Germany,Professional,Permanent,On-site,2024-03-28,1,Filled,2024-06-01,REC008,67000,79000,3.1
+JOB0298,Data Engineer,IT,Frankfurt,Germany,Professional,Permanent,Remote,2024-05-12,3,Filled,2024-09-10,REC008,68000,80000,5.0
+JOB0299,Sales Representative,Sales,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-07-22,1,Closed without hire,2025-10-06,REC012,67000,76000,2.9
+JOB0300,Quality Engineer,Engineering,Frankfurt,Germany,Senior,Permanent,Hybrid,2024-12-29,4,Filled,2025-03-22,REC008,91000,109000,4.5
+JOB0301,Supply Chain Analyst,Operations,Hamburg,Germany,Senior,Permanent,Hybrid,2025-03-20,4,Filled,2025-05-19,REC005,81000,93000,3.1
+JOB0302,Cloud Engineer,IT,Berlin,Germany,Professional,Permanent,On-site,2025-02-12,1,Filled,2025-04-06,REC008,68000,80000,4.0
+JOB0303,Project Coordinator,Operations,Berlin,Germany,Professional,Permanent,On-site,2024-06-30,2,Partially filled,2024-09-11,REC012,57000,69000,2.4
+JOB0304,Process Engineer,Engineering,Munich,Germany,Professional,Permanent,Hybrid,2024-06-06,2,Closed without hire,2024-08-22,REC006,74000,86000,4.1
+JOB0305,Data Analyst,IT,Frankfurt,Germany,Lead,Permanent,Hybrid,2024-01-04,2,Filled,2024-03-07,REC007,103000,121000,5.0
+JOB0306,Payroll Specialist,HR,Frankfurt,Germany,Junior,Permanent,Remote,2024-12-08,1,Filled,2025-01-08,REC012,47000,59000,1.7
+JOB0307,Sales Representative,Sales,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-12-29,2,Filled,2025-03-04,REC003,65000,80000,2.5
+JOB0308,Data Analyst,IT,Berlin,Germany,Professional,Permanent,Hybrid,2024-02-07,1,Filled,2024-04-06,REC001,65000,83000,4.4
+JOB0309,Electrical Engineer,Engineering,Berlin,Germany,Lead,Permanent,On-site,2025-01-29,2,Partially filled,2025-04-17,REC012,100000,115000,4.3
+JOB0310,Data Engineer,IT,Hamburg,Germany,Senior,Permanent,Hybrid,2025-10-15,1,Filled,2025-12-21,REC012,89000,107000,4.2
+JOB0311,CRM Manager,Marketing,Berlin,Germany,Professional,Permanent,Hybrid,2025-10-14,1,Filled,2025-11-29,REC006,60000,78000,2.4
+JOB0312,Quality Engineer,Engineering,Hamburg,Germany,Senior,Permanent,Remote,2024-04-16,1,Closed without hire,2024-07-18,REC008,84000,102000,5.0
+JOB0313,Recruiter,HR,Frankfurt,Germany,Junior,Permanent,Hybrid,2025-08-03,1,Cancelled,2025-10-07,REC012,47000,59000,2.4
+JOB0314,Supply Chain Analyst,Operations,Frankfurt,Germany,Junior,Permanent,Hybrid,2025-02-16,2,Cancelled,2025-04-20,REC005,44000,53000,2.2
+JOB0315,Controller,Finance,Munich,Germany,Senior,Permanent,Hybrid,2025-03-04,1,Filled,2025-05-20,REC006,85000,100000,4.2
+JOB0316,Software Developer,IT,Berlin,Germany,Junior,Permanent,Hybrid,2024-10-20,4,Filled,2025-02-04,REC008,53000,71000,3.7
+JOB0317,Operations Specialist,Operations,Hamburg,Germany,Senior,Permanent,Hybrid,2025-04-19,2,Filled,2025-08-14,REC008,78000,90000,3.9
+JOB0318,Sales Manager,Sales,Hamburg,Germany,Professional,Permanent,Remote,2025-05-22,2,Filled,2025-07-07,REC012,63000,75000,3.0
+JOB0319,Data Engineer,IT,Munich,Germany,Senior,Permanent,Remote,2024-02-10,1,Filled,2024-04-23,REC012,88000,106000,5.0
+JOB0320,Marketing Manager,Marketing,Munich,Germany,Junior,Permanent,Hybrid,2025-01-04,1,Filled,2025-03-06,REC008,53000,65000,2.8
+JOB0321,Operations Specialist,Operations,Munich,Germany,Professional,Permanent,On-site,2024-06-06,2,Closed without hire,2024-08-11,REC008,63000,81000,2.5
+JOB0322,Data Analyst,IT,Hamburg,Germany,Professional,Permanent,Hybrid,2024-04-14,2,Filled,2024-05-20,REC012,69000,87000,4.9
+JOB0323,Project Coordinator,Operations,Hamburg,Germany,Junior,Permanent,Remote,2024-03-11,2,Partially filled,2024-05-05,REC011,48000,63000,2.1
+JOB0324,CRM Manager,Marketing,Berlin,Germany,Senior,Permanent,Hybrid,2025-02-03,4,Filled,2025-04-30,REC010,81000,96000,3.4
+JOB0325,IT Support Specialist,IT,Frankfurt,Germany,Lead,Permanent,Remote,2024-12-20,1,Filled,2025-03-08,REC008,107000,122000,5.0
+JOB0326,Business Development Manager,Sales,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-09-21,2,Filled,2025-11-22,REC003,64000,79000,2.7
+JOB0327,Team Lead Operations,Operations,Berlin,Germany,Professional,Permanent,Hybrid,2025-06-28,2,Closed without hire,2025-08-25,REC005,59000,68000,2.7
+JOB0328,Team Lead Operations,Operations,Berlin,Germany,Professional,Permanent,Remote,2024-04-01,1,Filled,2024-07-01,REC008,59000,68000,3.1
+JOB0329,Sales Representative,Sales,Berlin,Germany,Lead,Permanent,Hybrid,2024-03-26,3,Partially filled,2024-06-07,REC006,99000,108000,3.9
+JOB0330,Process Engineer,Engineering,Hamburg,Germany,Professional,Permanent,Remote,2025-04-29,1,Filled,2025-06-01,REC012,62000,77000,3.7
+JOB0331,HR Business Partner,HR,Cologne,Germany,Professional,Permanent,Hybrid,2025-07-07,1,Filled,2025-09-10,REC012,56000,68000,2.3
+JOB0332,Accountant,Finance,Munich,Germany,Professional,Permanent,Hybrid,2024-01-25,1,Closed without hire,2024-04-07,REC004,66000,78000,2.6
+JOB0333,HR Business Partner,HR,Berlin,Germany,Professional,Permanent,Hybrid,2024-09-14,2,Partially filled,2024-11-18,REC006,63000,81000,2.3
+JOB0334,Supply Chain Analyst,Operations,Frankfurt,Germany,Junior,Permanent,Hybrid,2025-05-13,1,Filled,2025-08-15,REC011,49000,67000,2.4
+JOB0335,Payroll Specialist,HR,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-11-16,1,Filled,2025-01-01,REC012,66000,78000,2.7
+JOB0336,Content Specialist,Marketing,Berlin,Germany,Junior,Permanent,Remote,2025-03-07,2,Partially filled,2025-05-12,REC010,47000,65000,1.5
+JOB0337,Quality Engineer,Engineering,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-11-04,1,Closed without hire,2025-01-21,REC006,68000,83000,3.7
+JOB0338,IT Support Specialist,IT,Cologne,Germany,Senior,Permanent,Hybrid,2025-08-28,1,Filled,2025-10-20,REC008,85000,100000,5.0
+JOB0339,Payroll Specialist,HR,Cologne,Germany,Junior,Permanent,On-site,2024-06-28,1,Filled,2024-09-17,REC012,43000,61000,1.8
+JOB0340,Account Executive,Sales,Berlin,Germany,Professional,Permanent,Hybrid,2025-05-18,1,Filled,2025-06-20,REC003,65000,74000,2.3
+JOB0341,IT Support Specialist,IT,Berlin,Germany,Lead,Permanent,On-site,2024-09-25,1,Filled,2024-11-18,REC006,100000,112000,5.0
+JOB0342,Data Analyst,IT,Hamburg,Germany,Professional,Permanent,On-site,2025-06-01,4,Filled,2025-08-12,REC006,68000,86000,4.4
+JOB0343,HR Business Partner,HR,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-12-03,3,Filled,2025-03-06,REC009,63000,78000,2.4
+JOB0344,Financial Analyst,Finance,Munich,Germany,Professional,Permanent,On-site,2024-01-24,4,Partially filled,2024-04-24,REC008,74000,89000,2.7
+JOB0345,Financial Analyst,Finance,Frankfurt,Germany,Senior,Permanent,Hybrid,2025-01-03,1,Filled,2025-03-20,REC004,83000,101000,2.8
+JOB0346,Data Analyst,IT,Hamburg,Germany,Professional,Permanent,Hybrid,2024-02-21,2,Filled,2024-04-24,REC007,70000,88000,4.0
+JOB0347,Electrical Engineer,Engineering,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-02-25,1,Filled,2024-05-10,REC008,67000,76000,3.3
+JOB0348,Mechanical Engineer,Engineering,Cologne,Germany,Professional,Permanent,Remote,2024-05-10,1,Filled,2024-08-13,REC012,68000,80000,3.1
+JOB0349,Project Coordinator,Operations,Berlin,Germany,Senior,Permanent,Hybrid,2024-01-07,1,Closed without hire,2024-03-13,REC011,77000,86000,3.4
+JOB0350,Financial Analyst,Finance,Munich,Germany,Junior,Permanent,Hybrid,2024-08-25,1,Filled,2024-11-04,REC012,54000,69000,1.9
+JOB0351,Cloud Engineer,IT,Cologne,Germany,Professional,Permanent,Hybrid,2024-09-07,2,Filled,2024-12-31,REC012,68000,86000,4.5
+JOB0352,Sales Representative,Sales,Frankfurt,Germany,Senior,Permanent,Hybrid,2025-07-04,3,Filled,2025-09-27,REC003,85000,100000,3.5
+JOB0353,Software Developer,IT,Munich,Germany,Professional,Permanent,Remote,2025-03-01,2,Filled,2025-05-05,REC012,76000,94000,3.9
+JOB0354,Operations Specialist,Operations,Cologne,Germany,Professional,Permanent,On-site,2025-08-11,1,Filled,2025-09-19,REC011,58000,70000,2.6
+JOB0355,Data Analyst,IT,Munich,Germany,Professional,Permanent,Hybrid,2025-07-17,2,Filled,2025-10-22,REC008,75000,93000,3.8
+JOB0356,Process Engineer,Engineering,Munich,Germany,Senior,Permanent,Hybrid,2024-11-23,1,Filled,2025-02-22,REC008,85000,100000,4.6
+JOB0357,Marketing Manager,Marketing,Frankfurt,Germany,Professional,Permanent,Hybrid,2024-02-12,3,Filled,2024-03-27,REC006,59000,68000,2.6
+JOB0358,Business Development Manager,Sales,Frankfurt,Germany,Senior,Permanent,Hybrid,2025-02-23,1,Filled,2025-04-07,REC003,80000,95000,3.0
+JOB0359,Mechanical Engineer,Engineering,Hamburg,Germany,Professional,Permanent,Hybrid,2025-08-19,1,Filled,2025-11-04,REC006,69000,81000,4.3
+JOB0360,Supply Chain Analyst,Operations,Berlin,Germany,Junior,Permanent,Hybrid,2024-07-12,1,Filled,2024-08-22,REC008,42000,51000,1.4
+JOB0361,Sales Manager,Sales,Cologne,Germany,Senior,Permanent,On-site,2024-11-20,2,Filled,2025-01-21,REC008,79000,94000,3.3
+JOB0362,Sales Representative,Sales,Berlin,Germany,Senior,Permanent,Hybrid,2024-01-07,2,Filled,2024-02-15,REC003,78000,93000,2.2
+JOB0363,Process Engineer,Engineering,Berlin,Germany,Professional,Permanent,Hybrid,2025-03-21,3,Filled,2025-05-04,REC002,65000,83000,3.9
+JOB0364,Account Executive,Sales,Munich,Germany,Professional,Permanent,Hybrid,2024-08-30,1,Filled,2024-12-06,REC003,64000,79000,2.7
+JOB0365,Data Engineer,IT,Cologne,Germany,Professional,Permanent,Hybrid,2025-01-12,1,Filled,2025-03-31,REC006,70000,88000,4.2
+JOB0366,Software Developer,IT,Frankfurt,Germany,Junior,Permanent,Remote,2024-07-19,2,Partially filled,2024-10-30,REC008,57000,66000,3.4
+JOB0367,Sales Representative,Sales,Munich,Germany,Professional,Permanent,Hybrid,2024-08-07,1,Filled,2024-10-25,REC006,64000,76000,2.9
+JOB0368,Team Lead Operations,Operations,Cologne,Germany,Junior,Permanent,Hybrid,2025-05-12,1,Closed without hire,2025-07-22,REC011,47000,59000,1.8
+JOB0369,Marketing Manager,Marketing,Berlin,Germany,Senior,Permanent,On-site,2025-04-27,1,Filled,2025-06-13,REC006,83000,95000,2.4
+JOB0370,IT Support Specialist,IT,Hamburg,Germany,Professional,Permanent,On-site,2024-01-28,3,Filled,2024-04-28,REC006,71000,89000,4.2
+JOB0371,Sales Representative,Sales,Hamburg,Germany,Professional,Permanent,Remote,2024-12-31,2,Filled,2025-03-02,REC003,65000,74000,2.8
+JOB0372,Mechanical Engineer,Engineering,Berlin,Germany,Lead,Permanent,Hybrid,2025-03-01,2,Partially filled,2025-06-13,REC008,103000,112000,4.9
+JOB0373,Sales Manager,Sales,Hamburg,Germany,Professional,Permanent,Remote,2025-02-17,1,Cancelled,2025-04-25,REC012,63000,75000,2.8
+JOB0374,Account Executive,Sales,Berlin,Germany,Junior,Permanent,On-site,2024-02-29,1,Filled,2024-03-22,REC006,46000,58000,2.0
+JOB0375,Finance Business Partner,Finance,Berlin,Germany,Professional,Permanent,On-site,2024-03-21,2,Filled,2024-05-27,REC004,65000,77000,3.2
+JOB0376,Team Lead Operations,Operations,Cologne,Germany,Senior,Permanent,Remote,2024-09-10,3,Filled,2024-12-15,REC011,78000,96000,3.5
+JOB0377,Project Coordinator,Operations,Frankfurt,Germany,Senior,Permanent,Hybrid,2024-12-23,2,Partially filled,2025-03-08,REC008,84000,102000,3.5
+JOB0378,Cloud Engineer,IT,Frankfurt,Germany,Senior,Permanent,Hybrid,2024-04-27,2,Closed without hire,2024-07-20,REC008,87000,102000,5.0
+JOB0379,Performance Marketing Specialist,Marketing,Hamburg,Germany,Senior,Permanent,On-site,2025-10-13,1,Filled,2026-01-03,REC006,78000,87000,3.8
+JOB0380,Project Coordinator,Operations,Berlin,Germany,Professional,Permanent,On-site,2025-01-18,1,Closed without hire,2025-04-07,REC005,62000,77000,2.6
+JOB0381,Software Developer,IT,Cologne,Germany,Senior,Permanent,On-site,2024-02-23,2,Filled,2024-04-23,REC012,84000,102000,5.0
+JOB0382,CRM Manager,Marketing,Frankfurt,Germany,Senior,Permanent,On-site,2025-04-09,1,Closed without hire,2025-06-29,REC006,78000,90000,3.4
+JOB0383,IT Support Specialist,IT,Frankfurt,Germany,Senior,Permanent,Hybrid,2025-08-07,1,Filled,2025-11-25,REC006,85000,103000,5.0
+JOB0384,Electrical Engineer,Engineering,Berlin,Germany,Professional,Permanent,On-site,2025-09-13,1,Closed without hire,2025-11-25,REC002,63000,81000,3.9
+JOB0385,Business Development Manager,Sales,Berlin,Germany,Professional,Permanent,On-site,2024-11-28,2,Filled,2025-01-11,REC012,65000,80000,3.1
+JOB0386,Accountant,Finance,Frankfurt,Germany,Junior,Permanent,Hybrid,2025-07-29,1,Filled,2025-10-05,REC006,54000,66000,2.2
+JOB0387,Supply Chain Analyst,Operations,Berlin,Germany,Professional,Permanent,Hybrid,2024-06-23,2,Filled,2024-08-15,REC006,62000,80000,2.6
+JOB0388,Business Development Manager,Sales,Berlin,Germany,Professional,Permanent,Remote,2024-12-19,1,Filled,2025-03-16,REC008,63000,72000,2.4
+JOB0389,Cloud Engineer,IT,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-08-07,1,Filled,2025-10-31,REC008,77000,92000,3.9
+JOB0390,Finance Business Partner,Finance,Frankfurt,Germany,Professional,Permanent,Hybrid,2025-04-13,1,Filled,2025-06-01,REC012,64000,76000,3.2
+JOB0391,Sales Manager,Sales,Frankfurt,Germany,Senior,Permanent,Remote,2025-07-04,2,Filled,2025-10-14,REC008,82000,91000,3.1
+JOB0392,HR Business Partner,HR,Frankfurt,Germany,Professional,Permanent,Remote,2025-03-24,1,Filled,2025-05-15,REC006,61000,70000,2.2
+JOB0393,Electrical Engineer,Engineering,Frankfurt,Germany,Lead,Permanent,On-site,2024-09-17,1,Filled,2024-12-03,REC006,110000,128000,5.0
+JOB0394,Sales Manager,Sales,Munich,Germany,Professional,Permanent,Hybrid,2025-08-09,1,Filled,2025-10-17,REC006,69000,84000,2.3
+JOB0395,Controller,Finance,Hamburg,Germany,Junior,Permanent,Hybrid,2024-05-03,4,Partially filled,2024-08-16,REC008,46000,64000,2.6
+JOB0396,Sales Representative,Sales,Frankfurt,Germany,Lead,Permanent,Remote,2024-11-28,1,Closed without hire,2025-02-16,REC012,100000,112000,3.7
+JOB0397,Mechanical Engineer,Engineering,Berlin,Germany,Professional,Permanent,Hybrid,2025-02-12,3,Partially filled,2025-05-08,REC006,67000,79000,3.9
+JOB0398,Process Engineer,Engineering,Berlin,Germany,Professional,Permanent,On-site,2024-09-12,1,Filled,2024-12-01,REC002,70000,79000,3.6
+JOB0399,Business Development Manager,Sales,Berlin,Germany,Professional,Permanent,Remote,2025-06-15,1,Filled,2025-09-03,REC003,60000,75000,2.0
+JOB0400,Data Engineer,IT,Berlin,Germany,Professional,Permanent,Hybrid,2024-03-15,1,Filled,2024-05-23,REC012,64000,79000,5.0
+JOB0401,Team Lead Operations,Operations,Hamburg,Germany,Senior,Permanent,Hybrid,2024-10-12,1,Filled,2024-11-11,REC012,81000,93000,3.7
+JOB0402,Operations Specialist,Operations,Cologne,Germany,Senior,Permanent,Hybrid,2025-02-24,2,Closed without hire,2025-05-04,REC005,76000,85000,3.1
+JOB0403,CRM Manager,Marketing,Hamburg,Germany,Professional,Permanent,Hybrid,2025-10-14,2,Partially filled,2025-12-22,REC006,62000,77000,2.6
+JOB0404,Data Engineer,IT,Berlin,Germany,Professional,Permanent,On-site,2025-01-25,2,Filled,2025-04-13,REC007,72000,84000,3.9
+JOB0405,Process Engineer,Engineering,Munich,Germany,Professional,Permanent,On-site,2025-03-13,2,Filled,2025-05-20,REC008,74000,92000,4.0
+JOB0406,Project Coordinator,Operations,Munich,Germany,Senior,Permanent,On-site,2024-12-31,1,Filled,2025-02-15,REC011,86000,95000,3.2
+JOB0407,Mechanical Engineer,Engineering,Berlin,Germany,Junior,Permanent,Hybrid,2024-06-20,3,Partially filled,2024-08-21,REC002,51000,66000,2.9
+JOB0408,Process Engineer,Engineering,Hamburg,Germany,Professional,Permanent,Remote,2024-08-19,1,Filled,2024-10-20,REC006,67000,85000,4.1
+JOB0409,Supply Chain Analyst,Operations,Frankfurt,Germany,Senior,Permanent,Remote,2024-06-21,1,Filled,2024-07-29,REC012,79000,97000,2.9
+JOB0410,Team Lead Operations,Operations,Cologne,Germany,Senior,Permanent,Hybrid,2024-08-23,1,Closed without hire,2024-11-03,REC005,77000,89000,3.4
+JOB0411,Finance Business Partner,Finance,Munich,Germany,Professional,Permanent,Hybrid,2025-04-14,2,Filled,2025-07-04,REC008,68000,77000,3.1
+JOB0412,Recruiter,HR,Berlin,Germany,Professional,Permanent,Hybrid,2025-09-01,1,Filled,2025-09-23,REC009,58000,73000,2.5
+JOB0413,Account Executive,Sales,Munich,Germany,Professional,Permanent,Hybrid,2024-10-05,1,Filled,2024-11-21,REC012,69000,81000,2.4
+JOB0414,CRM Manager,Marketing,Cologne,Germany,Junior,Permanent,On-site,2024-11-29,1,Filled,2025-01-27,REC012,43000,58000,2.7
+JOB0415,Sales Manager,Sales,Hamburg,Germany,Professional,Permanent,Remote,2024-01-13,4,Filled,2024-03-25,REC008,66000,84000,2.8
+JOB0416,Data Analyst,IT,Berlin,Germany,Senior,Permanent,On-site,2025-03-15,3,Partially filled,2025-08-11,REC001,85000,103000,5.0
+JOB0417,Process Engineer,Engineering,Berlin,Germany,Professional,Permanent,Hybrid,2024-12-09,1,Filled,2025-01-05,REC006,67000,82000,3.6
+JOB0418,Cloud Engineer,IT,Munich,Germany,Professional,Permanent,Hybrid,2025-09-10,1,Closed without hire,2025-11-20,REC008,76000,91000,3.9
+JOB0419,Data Analyst,IT,Munich,Germany,Senior,Permanent,Hybrid,2025-02-01,2,Closed without hire,2025-04-30,REC007,94000,106000,4.9
+JOB0420,Team Lead Operations,Operations,Frankfurt,Germany,Junior,Permanent,On-site,2024-08-02,1,Closed without hire,2024-10-08,REC008,47000,56000,1.9

@@ -1,0 +1,13 @@
+recruiter_id,recruiter_name,experience_level,specialization,office,start_date
+REC001,Nora Becker,Senior,IT,Frankfurt,2021-03-01
+REC002,Emre Kaya,Senior,Engineering,Frankfurt,2020-08-17
+REC003,Lena Hoffmann,Professional,Sales,Berlin,2022-01-10
+REC004,David Wagner,Professional,Finance,Frankfurt,2022-06-01
+REC005,Mira Schulz,Professional,Operations,Hamburg,2023-02-15
+REC006,Jonas Klein,Senior,Generalist,Munich,2019-11-04
+REC007,Aylin Demir,Professional,IT,Berlin,2023-05-02
+REC008,Felix Hartmann,Junior,Generalist,Cologne,2024-01-08
+REC009,Sophie Neumann,Professional,HR,Frankfurt,2022-09-12
+REC010,Leon Fischer,Junior,Marketing,Berlin,2024-04-01
+REC011,Sara Yilmaz,Senior,Operations,Hamburg,2020-02-03
+REC012,Paul Richter,Professional,Generalist,Munich,2021-10-18

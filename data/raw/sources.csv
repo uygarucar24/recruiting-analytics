@@ -1,0 +1,8 @@
+source_id,source_name,source_category,estimated_cost_per_application_eur
+SRC001,Career Page,Owned,18
+SRC002,LinkedIn,Job board,52
+SRC003,Indeed,Job board,39
+SRC004,Employee Referral,Referral,210
+SRC005,Recruiting Agency,Agency,1450
+SRC006,Federal Employment Agency,Public,24
+SRC007,University Event,Event,180

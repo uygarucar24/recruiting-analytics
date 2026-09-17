@@ -1,0 +1,30 @@
+# Zugangsdaten
+.env
+
+# Erzeugte Daten, entstehen beim Ausführen von clean_data.py
+data/processed/*
+!data/processed/.gitkeep
+
+# Arbeitsnotizen
+docs/*
+!docs/cleaning_log.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Office und Power BI
+~$*
+*.pbix.bak
+
+# Ältere Berichtsstände, nur lokal
+powerbi/alt/
+
+# Editor und Betriebssystem
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
